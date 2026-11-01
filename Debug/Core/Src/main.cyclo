@@ -1,0 +1,9 @@
+../Core/Src/main.c:73:6:ADS131M04_ReadData	8
+../Core/Src/main.c:137:6:ADS131M04_PrintData	1
+../Core/Src/main.c:172:5:main	2
+../Core/Src/main.c:303:6:SystemClock_Config	3
+../Core/Src/main.c:344:13:MX_SPI3_Init	2
+../Core/Src/main.c:384:13:MX_TIM3_Init	6
+../Core/Src/main.c:443:13:MX_USART1_UART_Init	5
+../Core/Src/main.c:491:13:MX_GPIO_Init	1
+../Core/Src/main.c:542:6:Error_Handler	1
